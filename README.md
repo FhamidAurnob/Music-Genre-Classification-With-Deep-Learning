@@ -1,0 +1,2 @@
+# Music-Genre-Classification-With-Deep-Learning
+In our project, we have implemented Music Genre Classification by using Long Short Term Memory(LSTM). For this project, the dataset that we will beworking with is GTZAN Genre Classification dataset which consists of 1,000 audio tracks, each 30 seconds long[2]. It contains 10 genres, each represented by 100 tracks.Also we showed performance comparison by tuning hyper parameters to increase the accuracy. We were able to train a model that can classify music from 10 diƀerent genres by using LSTM.
